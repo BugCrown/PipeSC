@@ -1,0 +1,6 @@
+{
+    "HOST": "192.168.10.49",
+    "PORT": 9001,
+    "BUFFERSIZE": 1024,
+    "TRANSMAXSIZE": 16
+}
